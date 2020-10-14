@@ -5,5 +5,6 @@ Social distancing detector
 •Used pretrained yolov3_coco model for detecing the people in frame , computed the euclidean disatnce and set
 a threshold . Set up an output video stream with an alert message for people under risk.
 
-Here's the link to output video: https://drive.google.com/file/d/16zkHvP8Z71YrdFFjaxPRRoOeGB6m_S7X/view?usp=sharing
+Here's the link to input video: https://drive.google.com/file/d/16zkHvP8Z71YrdFFjaxPRRoOeGB6m_S7X/view?usp=sharing
+
 Here's the link to output video: https://drive.google.com/file/d/18AAq3btrnVdG7aoz2HvKNCPVL8rdRVFe/view?usp=sharing
